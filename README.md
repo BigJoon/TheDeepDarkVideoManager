@@ -9,3 +9,6 @@
 아래의 링크를 통해 다운로드 페이지로 이동합니다
 
 [다운로드 페이지 이동](https://github.com/developerlala/TheDeepDarkVideoManager/releases)
+
+
+난 노래방 프로그램 만들어서 올릴거임
